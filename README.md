@@ -47,10 +47,16 @@ A comprehensive Android application designed to provide emergency assistance and
 ## 📱 Screenshots
 
 The app features a clean, intuitive interface with:
+
 - Material Design cards for main menu items
+- ![Screenshot 2025-04-18 155103](https://github.com/user-attachments/assets/ef25d7ac-6308-4e22-886a-ea2a41c0c1c9)
 - Search bars with real-time filtering
+- ![Screenshot 2025-04-18 155124](https://github.com/user-attachments/assets/2d7d2ed0-322a-453e-9b2e-9aecfa5d3549)
 - Category chips for easy navigation
+- ![Screenshot 2025-04-18 155208](https://github.com/user-attachments/assets/df987e00-7b02-4335-8e65-0f9cf92fbe91)
 - Emergency buttons with visual feedback
+- ![Screenshot 2025-04-18 155230](https://github.com/user-attachments/assets/cb61e711-f424-4c27-b45f-b4c24aa3eeba)
+- ![Screenshot 2025-04-18 155255](https://github.com/user-attachments/assets/8fb7be1d-5eaf-4ba2-87b7-1fd50b31a124)
 - Responsive layouts for different screen sizes
 
 ## 🚀 Getting Started
