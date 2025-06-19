@@ -1,4 +1,4 @@
-# MAD Mini - Emergency & First Aid App
+# Pocket - Emergency & First Aid App
 
 A comprehensive Android application designed to provide emergency assistance and first aid guidance in critical situations.
 
